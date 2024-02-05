@@ -6,7 +6,7 @@
 
 
 # Module 4 Project - Neural Networks and GDPR Compliance
-
+[![Project One Document](https://img.shields.io/badge/Project%20One%20Document-Download%20Here-blue?style=for-the-badge&logo=appveyor)](4-2 Project)
 ## Overview
 
 This project focuses on addressing GDPR compliance concerns related to the use of neural networks in a social networking platform's personalization algorithms. The goal is to align the company's practices with GDPR principles while maintaining an effective and personalized user experience.
